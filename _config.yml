@@ -1,14 +1,28 @@
+name: 'Drawingfromusic '
+favicon: null
 layout_spectrum: 0.5638298
+typography_spectrum: 0.65492
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5226653
-  lightness: 0.5141903
-  brandStrength: 0.01445804
   brandColors:
     - '#0F0E16'
     - '#ABB4BD'
     - '#6E92A5'
     - '#214967'
     - '#B49078'
+  brandStrength: 0.01445804
+  lightness: 0.5141903
+  saturation: 0.5226653
   rhythmicContrast: 0.1968269
-typography_spectrum: 0.6574468
-name: 'Drawingfromusic '
+purpose: []
