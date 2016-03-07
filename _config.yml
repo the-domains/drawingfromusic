@@ -1,0 +1,14 @@
+layout_spectrum: 0.5638298
+color:
+  saturation: 0.5226653
+  lightness: 0.5141903
+  brandStrength: 0.01445804
+  brandColors:
+    - '#0F0E16'
+    - '#ABB4BD'
+    - '#6E92A5'
+    - '#214967'
+    - '#B49078'
+  rhythmicContrast: 0.1968269
+typography_spectrum: 0.6574468
+name: 'Drawingfromusic '
